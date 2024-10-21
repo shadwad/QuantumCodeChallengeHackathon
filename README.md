@@ -1,2 +1,2 @@
 # QuantumCodeChallengeHackathon
-Quantum Code Challenge Hackaton for Smart Cities at CTE - Cagliari Digital Lab
+Quantum Code Challenge Hackathon for Smart Cities at CTE - Cagliari Digital Lab
