@@ -18,7 +18,7 @@ To ensure a smooth and fair experience for all participants, please carefully re
   2. Add the GitHub submission link (public link of your Team repository) on the form that will be provided.
   3. Do not modify your team repository after the deadline. Any modifications after the submission deadline may lead to disqualification.
 
-### Demo Day:
+### Final session:
   1. Project finalists will be announced on October 25, 2024 at 4pm CET DST.
   2. Finalists present 2min. project deck on **The final session, October 25, 2024 at 4pm CET DST**.
   3. Winners will be announced on Demo Day, October 25, 2024.
