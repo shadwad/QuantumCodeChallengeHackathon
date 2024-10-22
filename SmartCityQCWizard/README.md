@@ -45,7 +45,8 @@ Universal and adiabatic quantum computing solutions are welcome. The Qbraid port
 
 Both supervised and unsupervised learning approaches are welcome, up to you. If you choose supervised learning, you are in charge for singling out the subset of data and creating the labels.
 
-# Teams submit their solution in a public github repository that might be a fork of the CRS4 repository for the challenge.
+# Submission guidelines
+-Teams submit their solution in a public github repository that might be a fork of the CRS4 repository for the challenge.
 -In the readme file they will list the name of the team members, their email, their github id and their discord id.  
 - We suggest using a dual license (like a MIT one) at the moment of the repository creation in order to allow reuse while maintaining copyright. (It’s easier for each team to commercialize their project later if they develop a very smart solution).
 - In the repository, the readme from the original QCWizard repo must be enclosed and completed with the missing data. 
