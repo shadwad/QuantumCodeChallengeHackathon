@@ -51,5 +51,5 @@ Both supervised and unsupervised learning approaches are welcome, up to you. If 
 - We suggest using a dual license (like a MIT one) at the moment of the repository creation in order to allow reuse while maintaining copyright. (It’s easier for each team to commercialize their project later if they develop a very smart solution).
 - In the repository, the readme from the original QCWizard repo must be enclosed and completed with the missing data. 
 -The submission repository will contain the data subset, all source codes and results and a slide deck that describes the solution.
--Participants will be asked to quote other’s work usage appropriately.
+- Participants will be asked to quote other’s work usage appropriately.
 
