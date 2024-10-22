@@ -5,8 +5,7 @@
 To ensure a smooth and fair experience for all participants, please carefully read and adhere to the following rules and guidelines.
 
 ### Eligibility:
-  1. To participate in the project, you must be successfully enrolled in the Quantum Code Challenge Hackathon. 
-   - Webpage: 
+  1. To participate in the project, you must be successfully enrolled in the [Quantum Code Challenge Hackathon](https://www.cagliaridlab.it/it/event.page?contentId=EVT881) 
   2. All nationalities, genders, and age groups are welcome to participate in the projects.
 
 ### Project Work Period:
