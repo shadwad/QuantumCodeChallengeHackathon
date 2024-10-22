@@ -2,9 +2,7 @@
 
 
 ## Project Participation Rules and Guidelines
-To ensure a smooth and fair experience for all participants, please carefully read and adhere to the following rules and guidelines. These instructions aim to provide clarity and structure for the project period, from team formation to submission and final judgment.
-If there are any questions, please get in touch with the Womanium team on the Womanium Discord server.
-
+To ensure a smooth and fair experience for all participants, please carefully read and adhere to the following rules and guidelines.
 
 ### Eligibility:
   1. To participate in the project, you must be successfully enrolled in the Quantum Code Challenge Hackathon. 
