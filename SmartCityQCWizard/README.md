@@ -5,6 +5,7 @@ Quantum Code Challenge Hackathon for Smart Cities at CTE - Cagliari Digital Lab
 The event takes place entirely online from 22 to 25 October 2024! 
 
 
+[<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/crs4/QuantumCodeChallengeHackathon.git&redirectUrl=SmartCityQCWizard)
 ## Project Participation Rules and Guidelines
 To ensure a smooth and fair experience for all participants, please carefully read and adhere to the following rules and guidelines.
 
