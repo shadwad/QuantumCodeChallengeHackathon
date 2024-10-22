@@ -14,3 +14,5 @@ The hackathon is bilingual, english and italian and participants from all commun
 Two challenges are available: Smart City QC Apprentice & Smart City QC Wizard.
 - The Smart City QC Apprentice challenge involves some coding for smart city-themed toy problems, exploring universal, adiabatic and analog quantum computer paradigms, on the hashtag#Qbraid portal.
 - The Smart City QC Wizard challenge is based on QML on a real dataset extracted from the sensors of the city of Cagliari. Partecipants will use the [Qbraid](https:\\www.qbraid.com) Portal and for this challenge you can cast a QML solution based on either the digital or the adiabatic paradigm.
+
+[<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/crs4/QuantumCodeChallengeHackathon.git)
